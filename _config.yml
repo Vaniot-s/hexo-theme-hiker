@@ -52,6 +52,8 @@ archive_pagination: true
 # Post Article's Content
 post_catalog:
   enable: true
+# 开启主页摘要
+post_excerpt: true
 
 
 # Content
@@ -163,3 +165,8 @@ donate:
     message: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作!'
     wechatImage: https://raw.githubusercontent.com/vaniot-s/picture/master/Qcoder/Screenshot%20from%202018-08-21%2016-40-06.png
     alipayImage: https://raw.githubusercontent.com/vaniot-s/picture/master/Qcoder/Screenshot%20from%202018-08-21%2016-49-42.png
+
+    
+# post copyright
+copyright:
+    enable: true

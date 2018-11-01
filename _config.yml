@@ -9,9 +9,11 @@ menu:
   Categories: categories
   Tags: tags
   About: about
+  Materials: material
+#  list: list
 rss: /atom.xml
 
-since: 2013
+since: 2016
 
 # Set default keywords (Use a comma to separate)
 keywords: ""
@@ -65,7 +67,7 @@ sidebar: right
 widgets:
 - social
 - category
-- tag
+#- tag
 - tagcloud
 - archive
 - recent_posts
@@ -83,7 +85,7 @@ social:
   Instagram: 
   Pinterest: 
   Flickr: 
-  email:
+  email: vaniot@yeah.net
 
 
 # Search
@@ -152,7 +154,7 @@ facebook_sdk:
   webmaster:    #true
 
 # CNZZ count
-cnzz_siteid: 1260716016
+cnzz_siteid: 1275225219
 
 # busuanzi count
 # http://busuanzi.ibruce.info/
